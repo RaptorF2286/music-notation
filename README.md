@@ -1,4 +1,3 @@
-# music-notation
 | Símbolo | Uso |
 | ------|---|
 | \| | compás |
